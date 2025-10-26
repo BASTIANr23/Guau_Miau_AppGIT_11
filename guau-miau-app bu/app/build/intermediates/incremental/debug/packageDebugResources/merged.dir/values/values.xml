@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFF8F0</color>
+    <color name="ic_launcher_background">#FF6B35</color>
+    <color name="primary">#FF6B35</color>
+    <color name="secondary">#4ECDC4</color>
+    <color name="tertiary">#FFE66D</color>
+    <string name="app_name">Guau&amp;Miau</string>
+    <string name="catalog">Catálogo</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="pet_name">Nombre de Mascota</string>
+    <string name="pet_type">Tipo de Mascota</string>
+    <string name="profile">Perfil</string>
+    <string name="register">Registrarse</string>
+    <string name="welcome_message">Bienvenido a Guau&amp;Miau</string>
+    <style name="Theme.GuauMiau" parent="android:Theme.Material.Light.NoActionBar">
+         Primary brand color 
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

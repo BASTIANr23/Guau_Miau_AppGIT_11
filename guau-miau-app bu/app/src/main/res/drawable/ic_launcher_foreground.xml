@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:translateX="27"
+        android:translateY="27">
+         Paw print icon for pet store 
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,30c-3.3,0-6,2.7-6,6s2.7,6,6,6s6-2.7,6-6S57.3,30,54,30z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M42,36c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S44.8,36,42,36z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M66,36c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S68.8,36,66,36z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M36,48c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S38.8,48,36,48z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M72,48c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S74.8,48,72,48z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,48c-6.6,0-12,5.4-12,12c0,4.4,2.4,8.3,6,10.4V78c0,3.3,2.7,6,6,6s6-2.7,6-6v-7.6c3.6-2.1,6-6,6-10.4C66,53.4,60.6,48,54,48z"/>
+    </group>
+</vector>

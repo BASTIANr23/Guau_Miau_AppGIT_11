@@ -1,0 +1,72 @@
+cl.duoc.guaumiau.app-jetified-emoji2-1.3.0-0 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\0ad2036bd65b472557fdaac0df644179\transformed\jetified-emoji2-1.3.0\res
+cl.duoc.guaumiau.app-jetified-camera-camera2-1.3.1-1 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\0b60d75cd199cffe84d74b496817209e\transformed\jetified-camera-camera2-1.3.1\res
+cl.duoc.guaumiau.app-sqlite-framework-2.4.0-2 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\145c8a0c05f3527ce1c34b9dd762286b\transformed\sqlite-framework-2.4.0\res
+cl.duoc.guaumiau.app-jetified-annotation-experimental-1.4.0-3 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\17393ceab836c2fadc8adbb631d698f3\transformed\jetified-annotation-experimental-1.4.0\res
+cl.duoc.guaumiau.app-jetified-savedstate-ktx-1.2.1-4 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\1ca18b08a0f6373184d7a4a4b148f575\transformed\jetified-savedstate-ktx-1.2.1\res
+cl.duoc.guaumiau.app-jetified-startup-runtime-1.1.1-5 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\206949aca6180ded285a228faf82c864\transformed\jetified-startup-runtime-1.1.1\res
+cl.duoc.guaumiau.app-jetified-ui-tooling-preview-release-6 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\233ea27d30bd0d04bf66c5aa2a31890b\transformed\jetified-ui-tooling-preview-release\res
+cl.duoc.guaumiau.app-jetified-ui-test-manifest-1.6.1-7 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\23f8e263c378d87e79246e1b0c3ef483\transformed\jetified-ui-test-manifest-1.6.1\res
+cl.duoc.guaumiau.app-jetified-customview-poolingcontainer-1.0.0-8 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\313383210ce4eec1b4ab6ebb6f252af6\transformed\jetified-customview-poolingcontainer-1.0.0\res
+cl.duoc.guaumiau.app-jetified-camera-core-1.3.1-9 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\3137e5867d5bd2e1fdba0b829c1853f5\transformed\jetified-camera-core-1.3.1\res
+cl.duoc.guaumiau.app-jetified-datastore-preferences-1.0.0-10 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\33a66d89c9d6247b40b8f71ee3914eda\transformed\jetified-datastore-preferences-1.0.0\res
+cl.duoc.guaumiau.app-lifecycle-livedata-2.7.0-11 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\396c60106a7a835ae896e1b9b0547bc6\transformed\lifecycle-livedata-2.7.0\res
+cl.duoc.guaumiau.app-navigation-runtime-ktx-2.7.6-12 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\41235a23b1c430066937cf211a03c448\transformed\navigation-runtime-ktx-2.7.6\res
+cl.duoc.guaumiau.app-lifecycle-livedata-core-2.7.0-13 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\418cdb301103d289128e8518f94c80d3\transformed\lifecycle-livedata-core-2.7.0\res
+cl.duoc.guaumiau.app-jetified-runtime-saveable-release-14 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\4300eae8c785eb53d19cab00783b61c3\transformed\jetified-runtime-saveable-release\res
+cl.duoc.guaumiau.app-jetified-ui-text-release-15 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\469a5f4019a15f9beb883c76873272a3\transformed\jetified-ui-text-release\res
+cl.duoc.guaumiau.app-jetified-ui-graphics-release-16 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\4c1cfe70f24f7f4ae3a3a2fc7190bcd2\transformed\jetified-ui-graphics-release\res
+cl.duoc.guaumiau.app-jetified-ui-release-17 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\4de51aabf6e4d950fe320d4dc68e9c84\transformed\jetified-ui-release\res
+cl.duoc.guaumiau.app-appcompat-1.6.1-18 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\4dfcf44a7a07420b27eecdfb06d7cab7\transformed\appcompat-1.6.1\res
+cl.duoc.guaumiau.app-jetified-camera-video-1.3.1-19 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\4e21f3c8267daeef397161e0239b5667\transformed\jetified-camera-video-1.3.1\res
+cl.duoc.guaumiau.app-jetified-core-ktx-1.12.0-20 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\5814bc6971995d92a9c57758e5dbefb2\transformed\jetified-core-ktx-1.12.0\res
+cl.duoc.guaumiau.app-fragment-1.3.6-21 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\5a514e897cfcfdf893199b165c4fd063\transformed\fragment-1.3.6\res
+cl.duoc.guaumiau.app-jetified-lifecycle-process-2.7.0-22 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\5ebdad4a946a7af1ed4de5d8de3a80d1\transformed\jetified-lifecycle-process-2.7.0\res
+cl.duoc.guaumiau.app-jetified-activity-compose-1.8.2-23 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\60740ef7669eef422bd433c2892874c9\transformed\jetified-activity-compose-1.8.2\res
+cl.duoc.guaumiau.app-navigation-common-2.7.6-24 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\677ed8bca03794985b2689ff6c050c2f\transformed\navigation-common-2.7.6\res
+cl.duoc.guaumiau.app-jetified-foundation-release-25 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\6a94fe6b84f94935a5a6dd05f09f3dc2\transformed\jetified-foundation-release\res
+cl.duoc.guaumiau.app-jetified-camera-lifecycle-1.3.1-26 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\6b6aa771eb9397f19cec9fa535f6d836\transformed\jetified-camera-lifecycle-1.3.1\res
+cl.duoc.guaumiau.app-jetified-lifecycle-viewmodel-compose-2.7.0-27 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\6c95b2d0eec889c26bf088bd876ad604\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\res
+cl.duoc.guaumiau.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-28 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\74cc21084b45998f3057b320af4fc88c\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+cl.duoc.guaumiau.app-jetified-savedstate-1.2.1-29 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\760fe3fb2781cf1d0eece264ff887a96\transformed\jetified-savedstate-1.2.1\res
+cl.duoc.guaumiau.app-jetified-ui-geometry-release-30 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\76d6074fe62375c971e82227b4daa877\transformed\jetified-ui-geometry-release\res
+cl.duoc.guaumiau.app-jetified-appcompat-resources-1.6.1-31 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\76ff6d287e9eb4867c584703584c22fb\transformed\jetified-appcompat-resources-1.6.1\res
+cl.duoc.guaumiau.app-jetified-coil-base-2.5.0-32 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\79582607f2c940c38e27be09acba2847\transformed\jetified-coil-base-2.5.0\res
+cl.duoc.guaumiau.app-sqlite-2.4.0-33 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\855c49a8d4a4aff33fbd2bacc2c7fb2c\transformed\sqlite-2.4.0\res
+cl.duoc.guaumiau.app-jetified-room-ktx-2.6.1-34 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\87aa2c0e1a84f997b65d047b1231a55b\transformed\jetified-room-ktx-2.6.1\res
+cl.duoc.guaumiau.app-jetified-material-icons-core-release-35 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\88069b982b4ba468bea29299c7228494\transformed\jetified-material-icons-core-release\res
+cl.duoc.guaumiau.app-jetified-activity-1.8.2-36 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\8a5a9dc038942921d7b5c6f978316046\transformed\jetified-activity-1.8.2\res
+cl.duoc.guaumiau.app-core-1.12.0-37 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\8ad933f40d9ad71c452b7b30e0f02d3f\transformed\core-1.12.0\res
+cl.duoc.guaumiau.app-room-runtime-2.6.1-38 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\8cf30bb0f8cb0bcda518464c6a4c83a4\transformed\room-runtime-2.6.1\res
+cl.duoc.guaumiau.app-jetified-foundation-layout-release-39 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\8d1b128e36571daf3dbb99139daea74c\transformed\jetified-foundation-layout-release\res
+cl.duoc.guaumiau.app-core-runtime-2.2.0-40 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\8d350a5ae6eb406106c752d6308cd4ca\transformed\core-runtime-2.2.0\res
+cl.duoc.guaumiau.app-navigation-runtime-2.7.6-41 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\982bcc6ac2ff0f0739602d863873a5fb\transformed\navigation-runtime-2.7.6\res
+cl.duoc.guaumiau.app-jetified-ui-unit-release-42 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\9af56c2b179ef0ecc91913ac36e019e6\transformed\jetified-ui-unit-release\res
+cl.duoc.guaumiau.app-jetified-lifecycle-runtime-compose-2.7.0-43 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\9d013407a56c7902a7bb3a729abea462\transformed\jetified-lifecycle-runtime-compose-2.7.0\res
+cl.duoc.guaumiau.app-jetified-lifecycle-viewmodel-ktx-2.7.0-44 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\a532705829225962bf4c5d062cbb9cf1\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+cl.duoc.guaumiau.app-jetified-ui-util-release-45 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\a64ef883aa9bf5a96f2563537277a7ec\transformed\jetified-ui-util-release\res
+cl.duoc.guaumiau.app-jetified-lifecycle-livedata-core-ktx-2.7.0-46 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\a7984892a76bebf0d9b80373a08748fb\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+cl.duoc.guaumiau.app-jetified-material-release-47 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\ad4ec1e7c2916371bb236280e17eb0a8\transformed\jetified-material-release\res
+cl.duoc.guaumiau.app-jetified-emoji2-views-helper-1.3.0-48 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\afb7ced4ae1dec0a308cb4142c345b5e\transformed\jetified-emoji2-views-helper-1.3.0\res
+cl.duoc.guaumiau.app-jetified-datastore-1.0.0-49 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\b621cf95356d6d9974ba46f7b746f132\transformed\jetified-datastore-1.0.0\res
+cl.duoc.guaumiau.app-jetified-lifecycle-runtime-ktx-2.7.0-50 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\b8d8bee2d4a771c1a694056a59b2e804\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+cl.duoc.guaumiau.app-jetified-material3-release-51 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\ba2f6ea541bb03bebea4c586650baa80\transformed\jetified-material3-release\res
+cl.duoc.guaumiau.app-jetified-ui-tooling-data-release-52 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\bc61118c059412eb12c9701c7a4b9a01\transformed\jetified-ui-tooling-data-release\res
+cl.duoc.guaumiau.app-jetified-navigation-compose-2.7.6-53 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\c12b9856ded163f7776da84129a914c0\transformed\jetified-navigation-compose-2.7.6\res
+cl.duoc.guaumiau.app-jetified-profileinstaller-1.3.1-54 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\c2a82df56c8da0eba0310bc95254c41b\transformed\jetified-profileinstaller-1.3.1\res
+cl.duoc.guaumiau.app-jetified-material-icons-extended-release-55 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\c3b4bc66e8a828d574ca5d91187c684a\transformed\jetified-material-icons-extended-release\res
+cl.duoc.guaumiau.app-lifecycle-runtime-2.7.0-56 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\c4a40957bc5ae8d6b0f6af1045b410e1\transformed\lifecycle-runtime-2.7.0\res
+cl.duoc.guaumiau.app-lifecycle-viewmodel-2.7.0-57 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\d3faf3bf95d52f72f3b75a1f84d86bf0\transformed\lifecycle-viewmodel-2.7.0\res
+cl.duoc.guaumiau.app-jetified-material-ripple-release-58 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\dc2cb76e2a9115058d50e2516753b1d7\transformed\jetified-material-ripple-release\res
+cl.duoc.guaumiau.app-jetified-ui-tooling-release-59 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\dde96c04ace93fe7db413b0ee60579c4\transformed\jetified-ui-tooling-release\res
+cl.duoc.guaumiau.app-jetified-runtime-release-60 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\eb01c2d2acc6e4b09b2add58803c06fc\transformed\jetified-runtime-release\res
+cl.duoc.guaumiau.app-jetified-animation-release-61 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\eb32f38a94a24190846ac72c56f6b358\transformed\jetified-animation-release\res
+cl.duoc.guaumiau.app-jetified-camera-view-1.3.1-62 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\ecb51e57b306e4b08a83ceef0ffceb8f\transformed\jetified-camera-view-1.3.1\res
+cl.duoc.guaumiau.app-jetified-activity-ktx-1.8.2-63 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\f56b3b6496dfe0f3a77f9cdf9ff99b1d\transformed\jetified-activity-ktx-1.8.2\res
+cl.duoc.guaumiau.app-navigation-common-ktx-2.7.6-64 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\f80d95962759f8727e25ef772cbfa271\transformed\navigation-common-ktx-2.7.6\res
+cl.duoc.guaumiau.app-jetified-animation-core-release-65 C:\Users\User\.gradle\caches\9.0-milestone-1\transforms\fcbd1e2cf4a62ab650d27a60dd47c4dc\transformed\jetified-animation-core-release\res
+cl.duoc.guaumiau.app-resValues-66 C:\Users\User\Desktop\ApMovil\guau-miau-app bu\app\build\generated\res\resValues\debug
+cl.duoc.guaumiau.app-packageDebugResources-67 C:\Users\User\Desktop\ApMovil\guau-miau-app bu\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+cl.duoc.guaumiau.app-packageDebugResources-68 C:\Users\User\Desktop\ApMovil\guau-miau-app bu\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+cl.duoc.guaumiau.app-merged_res-69 C:\Users\User\Desktop\ApMovil\guau-miau-app bu\app\build\intermediates\merged_res\debug
+cl.duoc.guaumiau.app-debug-70 C:\Users\User\Desktop\ApMovil\guau-miau-app bu\app\src\debug\res
+cl.duoc.guaumiau.app-main-71 C:\Users\User\Desktop\ApMovil\guau-miau-app bu\app\src\main\res
